@@ -28,7 +28,7 @@ const About = () => {
 
 			</Helmet>
 			<h1 className={css(styles.h1)}>About</h1>
-			<h2 className={css(styles.h2)}>About Us</h2>
+			<h2 className={css(styles.h2)}>About Us - 1</h2>
 			<p>
 			Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex velit unde
 				nemo cum veniam esse non accusamus a aliquid. Maiores possimus nam
