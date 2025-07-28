@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-spa/static/css/main.e6c13ad2.css",
-    "main.js": "/react-spa/static/js/main.a48cab71.js",
-    "index.html": "/react-spa/index.html",
-    "main.e6c13ad2.css.map": "/react-spa/static/css/main.e6c13ad2.css.map",
-    "main.a48cab71.js.map": "/react-spa/static/js/main.a48cab71.js.map"
+    "main.css": "/RUM-SPA-sample-web/static/css/main.e6c13ad2.css",
+    "main.js": "/RUM-SPA-sample-web/static/js/main.a48cab71.js",
+    "index.html": "/RUM-SPA-sample-web/index.html",
+    "main.e6c13ad2.css.map": "/RUM-SPA-sample-web/static/css/main.e6c13ad2.css.map",
+    "main.a48cab71.js.map": "/RUM-SPA-sample-web/static/js/main.a48cab71.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
